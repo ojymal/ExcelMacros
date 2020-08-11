@@ -1,20 +1,6 @@
 Attribute VB_Name = "Module1"
-Sub BinProductivity()
-Attribute BinProductivity.VB_ProcData.VB_Invoke_Func = " \n14"
-
-UserForm2.Show
-    
-End Sub
 
 
-
-
-Public Sub JamPPR()
-
-UserForm1.Show
-
-
-End Sub
 
 
 
