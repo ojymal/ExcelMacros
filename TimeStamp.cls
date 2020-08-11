@@ -13,6 +13,9 @@ Attribute VB_Exposed = True
 Private Sub Worksheet_Change(ByVal Target As Range)
 
 
+' Checks target column for changes then adds a time stamp on designated column on the same row.
+' Does not update other cells.
+
 If Target.Column = 1 Then
 
 Application.EnableEvents = False
