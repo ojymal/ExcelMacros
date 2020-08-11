@@ -1,12 +1,8 @@
 Attribute VB_Name = "Module1"
 
-
-
-
-
 Public Sub Jam21DP()
 '
-' Macro2 Macro
+    ' Hard defined macro to automate a repetitive daily task
 '
 
 '
